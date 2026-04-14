@@ -33,9 +33,5 @@ In this project, I have successfully deployed a Virtual Machine (VM) on GCP and 
 ### 5. Remote Connection
 * Established a secure connection via terminal:
   `ssh -i [PATH_TO_KEY] [USER]@[EXTERNAL_IP]`
-
-## 📸 Screenshots
-!("C:\Users\eonderci\Desktop\googlecloudvm\1.jpeg")
-
 ---
 **Medium Article:** [(https://medium.com/@kumrueylem2/google-cloud-gcp-rehberi-%C3%BCcretsiz-hesap-olu%C5%9Fturma-vm-kurulumu-ve-ssh-key-yap%C4%B1land%C4%B1rmas%C4%B1-0a4f09dce3fe)]
